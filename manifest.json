@@ -1,0 +1,19 @@
+{
+  "name": "Fléchettes Pro",
+  "short_name": "Fléchettes",
+  "description": "Club de fléchettes — Classements ELO, tournois, statistiques",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f8f5",
+  "theme_color": "#111110",
+  "orientation": "any",
+  "categories": ["sports", "games"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

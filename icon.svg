@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#111110" rx="80"/>
+  <!-- Dartboard circles -->
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#f8f8f5" stroke-width="6"/>
+  <circle cx="256" cy="256" r="130" fill="none" stroke="#f8f8f5" stroke-width="5"/>
+  <circle cx="256" cy="256" r="80" fill="none" stroke="#f8f8f5" stroke-width="4"/>
+  <circle cx="256" cy="256" r="38" fill="#f8f8f5"/>
+  <circle cx="256" cy="256" r="20" fill="#111110"/>
+  <!-- Dart -->
+  <line x1="56" y1="56" x2="248" y2="248" stroke="#f8f8f5" stroke-width="10" stroke-linecap="round"/>
+  <polygon points="248,248 226,256 256,226" fill="#f8f8f5"/>
+  <!-- Dart tail -->
+  <line x1="56" y1="56" x2="36" y2="80" stroke="#f8f8f5" stroke-width="6" stroke-linecap="round"/>
+  <line x1="56" y1="56" x2="80" y2="36" stroke="#f8f8f5" stroke-width="6" stroke-linecap="round"/>
+</svg>
